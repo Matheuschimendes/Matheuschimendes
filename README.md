@@ -8,6 +8,7 @@
 
 ![Matheus Chimendes GitHub stats](https://github-readme-stats.vercel.app/api?username=matheuschimendes&show_icons=true&theme=dark)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheuschimendes&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ### Tecnologias que eu uso no meu dia
 
 <div style="display: inline_block"><br/>
