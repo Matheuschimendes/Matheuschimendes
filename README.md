@@ -17,9 +17,6 @@ Tenho 24 anos, sou graduando em Análise do Sistema da Informação e tenho como
 
 ####
 
-[![Portfolio](https://img.shields.io/website?label=matheuschimendes&style=for-the-badge&url=https://matheuschimendes.github.io/Portfolio/)]() 
-
-
 ![Matheus Chimendes GitHub stats](https://github-readme-stats.vercel.app/api?username=matheuschimendes&show_icons=true&theme=dark)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheuschimendes&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
