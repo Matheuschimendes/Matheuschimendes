@@ -3,7 +3,6 @@
 ### Iaer Pessoal! Me Chamo Matheus Chimendes <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">
 
 [![Portfolio](https://img.shields.io/website?label=matheuschimendes&style=for-the-badge&url=https://matheuschimendes.github.io/Portfolio/)]() 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-chimendes/) 
 
 
 ![Matheus Chimendes GitHub stats](https://github-readme-stats.vercel.app/api?username=matheuschimendes&show_icons=true&theme=dark)
@@ -33,6 +32,9 @@
 </a>
 <a href="https://instagram.com/matheuschiimendes" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-matheuschimendes-05122A?style=flat&logo=instagram" alt="instagram"/>
+</a>
+<a href="https://github.com/Matheuschimendes" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/-matheuschimendes-05122A?style=flat&logo=github" alt="github"/>
 </a>
 </p>
 
