@@ -37,9 +37,6 @@ Tenho 24 anos, sou graduando em Análise do Sistema da Informação e tenho como
 <a href="https://instagram.com/matheuschiimendes" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-matheuschimendes-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
-<a href="https://github.com/Matheuschimendes" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-matheuschimendes-05122A?style=flat&logo=github" alt="github"/>
-</a>
 </p>
 
 <!--
