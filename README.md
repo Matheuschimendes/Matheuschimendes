@@ -1,5 +1,3 @@
-Claro! Vamos adicionar Node.js às tecnologias que você utiliza:
-
 ### Matheus Chimendes - Desenvolvedor Web
 
 Olá! Eu sou o Matheus Chimendes, estudante de Análise de Sistemas da Informação e apaixonado por resolver problemas através da programação.
