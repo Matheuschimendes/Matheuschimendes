@@ -1,7 +1,7 @@
 <h1 align="center">👋 Olá, eu sou o Matheus Chimendes</h1>
 
 <p align="center">
-  Desenvolvedor Front-End | Entusiasta de Jogos e Lógica | Amante de Tecnologia
+  Desenvolvedor Front-End | Amante de Tecnologia
 </p>
 
 <p align="center">
