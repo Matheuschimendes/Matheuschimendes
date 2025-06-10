@@ -1,7 +1,7 @@
-<h1 align="center">👋 Olá, eu sou o Matheus Chimendes</h1>
+<h1 align="center">👋 Olá, meu nome é Matheus Chimendes</h1>
 
 <p align="center">
-  Desenvolvedor Front-End | Amante de Tecnologia
+  Desenvolvedor Front-End | Entusiasta em Tecnologia
 </p>
 
 <p align="center">
@@ -12,31 +12,27 @@
 
 ## 🚀 Projetos em Destaque
 
-
 ### 📱 Aplicações Web e Full-stack
 
 | Projeto | Descrição | Tecnologias |
 |--------|------------|-------------|
-| [**FinanceIA**](https://github.com/Matheuschimendes/FinanceIA) | Plataforma inteligente para gestão financeira, utilizando IA para análise e previsão. | Next.js 14, Clerk, Tailwind CSS, Recharts, date-fns |
-| [**Agenda de Contatos**](https://github.com/Matheuschimendes/agenda_de_contatos) | CRUD de contatos com Vuetify, máscara para telefones e destaque visual. | Vue.js, Vuetify |
-| [**To‑Do List JS**](https://github.com/Matheuschimendes/todolist-js) | Lista de tarefas com adição, exclusão e persistência via LocalStorage. | JavaScript, HTML, CSS |
-| [**Consumo de Água e Gás (backend)**](https://github.com/MathMendesReis) | API em TypeScript para gerenciar leituras individuais de consumo (água e gás). | TypeScript, Node.js |
-
+| [**FinanceIA**](https://github.com/Matheuschimendes/FinanceIA) | Plataforma inteligente para gestão financeira, utilizando inteligência artificial para análise e previsão. | Next.js 14, Clerk, Tailwind CSS, Recharts, date-fns |
+| [**Agenda de Contatos**](https://github.com/Matheuschimendes/agenda_de_contatos) | Sistema CRUD para gerenciamento de contatos, com máscaras para telefones e interface visual aprimorada. | Vue.js, Vuetify |
+| [**To‑Do List JS**](https://github.com/Matheuschimendes/todolist-js) | Aplicação de lista de tarefas com funcionalidades de adicionar, remover e persistir dados utilizando LocalStorage. | JavaScript, HTML, CSS |
+| [**Consumo de Água e Gás (backend)**](https://github.com/MathMendesReis) | API desenvolvida em TypeScript para o gerenciamento de leituras individuais de consumo de água e gás. | TypeScript, Node.js |
 
 ### 🎮 Games e Lógica
 
 | Projeto | Descrição | Tecnologias |
 |--------|------------|-------------|
-| [**Escrevendo as classes de um Jogo**](https://github.com/Matheuschimendes/Escrevendo-as-classes-de-um-Jogo) | Jogo em Java usando POO com heróis personalizados e método `atacar()` com animações. | Java, GIFs |
-| [**Forest Fighting**](https://github.com/Matheuschimendes/Forest-Fighting) | Jogo de luta por turnos com 4 heróis, barras de vida e itens. | Python, CLI |
-| [**Jogo do Número Secreto**](https://github.com/Matheuschimendes/Jogo-do-Numero-Secreto) | Jogo interativo de adivinhação com interface simples. | JS, HTML, CSS |
-| [**Jogo da Forca com Dicas**](https://github.com/Matheuschimendes/forca) | Forca com dicas por categoria e base de dados em Excel. | Python, Pandas |
+| [**Escrevendo as classes de um Jogo**](https://github.com/Matheuschimendes/Escrevendo-as-classes-de-um-Jogo) | Desenvolvimento de jogo em Java utilizando programação orientada a objetos, com heróis personalizados e método `atacar()` com animações. | Java, GIFs |
+| [**Forest Fighting**](https://github.com/Matheuschimendes/Forest-Fighting) | Jogo de luta por turnos com quatro heróis, barras de vida e itens estratégicos. | Python, CLI |
+| [**Jogo do Número Secreto**](https://github.com/Matheuschimendes/Jogo-do-Numero-Secreto) | Jogo interativo de adivinhação com interface simples e intuitiva. | JavaScript, HTML, CSS |
+| [**Jogo da Forca com Dicas**](https://github.com/Matheuschimendes/forca) | Jogo da forca aprimorado com dicas por categoria e base de dados gerenciada em Excel. | Python, Pandas |
 
 ---
 
----
-
-## 🧰 Tecnologias & Ferramentas
+## 🧰 Tecnologias e Ferramentas
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
@@ -49,7 +45,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Estatísticas no GitHub
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Matheuschimendes&show_icons=true&theme=tokyonight&count_private=true" height="150" />
@@ -58,7 +54,7 @@
 
 ---
 
-## 🌎 Vamos nos conectar!
+## 🌎 Conecte-se comigo
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-linkedin)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)
@@ -66,5 +62,5 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Matheuschimendes&color=blue" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Matheuschimendes&color=blue" alt="Visualizações do Perfil" />
 </p>
