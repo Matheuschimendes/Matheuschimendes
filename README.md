@@ -17,7 +17,7 @@
 
 | Projeto | Descrição | Tecnologias |
 |--------|------------|-------------|
-| [**FinanceIA**](https://github.com/Matheuschimendes/FinanceIA) | Plataforma inteligente para gestão financeira, utilizando IA para análise e previsão. | Python, Machine Learning, APIs |
+| [**FinanceIA**](https://github.com/Matheuschimendes/FinanceIA) | Plataforma inteligente para gestão financeira, utilizando IA para análise e previsão. | Next.js 14, Clerk, Tailwind CSS, Recharts, date-fns |
 | [**Agenda de Contatos**](https://github.com/Matheuschimendes/agenda_de_contatos) | CRUD de contatos com Vuetify, máscara para telefones e destaque visual. | Vue.js, Vuetify |
 | [**To‑Do List JS**](https://github.com/Matheuschimendes/todolist-js) | Lista de tarefas com adição, exclusão e persistência via LocalStorage. | JavaScript, HTML, CSS |
 | [**Consumo de Água e Gás (backend)**](https://github.com/MathMendesReis) | API em TypeScript para gerenciar leituras individuais de consumo (água e gás). | TypeScript, Node.js |
