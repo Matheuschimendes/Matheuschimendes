@@ -12,6 +12,17 @@
 
 ## 🚀 Projetos em Destaque
 
+
+### 📱 Aplicações Web e Full-stack
+
+| Projeto | Descrição | Tecnologias |
+|--------|------------|-------------|
+| [**FinanceIA**](https://github.com/Matheuschimendes/FinanceIA) | Plataforma inteligente para gestão financeira, utilizando IA para análise e previsão. | Python, Machine Learning, APIs |
+| [**Agenda de Contatos**](https://github.com/Matheuschimendes/agenda_de_contatos) | CRUD de contatos com Vuetify, máscara para telefones e destaque visual. | Vue.js, Vuetify |
+| [**To‑Do List JS**](https://github.com/Matheuschimendes/todolist-js) | Lista de tarefas com adição, exclusão e persistência via LocalStorage. | JavaScript, HTML, CSS |
+| [**Consumo de Água e Gás (backend)**](https://github.com/MathMendesReis) | API em TypeScript para gerenciar leituras individuais de consumo (água e gás). | TypeScript, Node.js |
+
+
 ### 🎮 Games e Lógica
 
 | Projeto | Descrição | Tecnologias |
@@ -22,15 +33,6 @@
 | [**Jogo da Forca com Dicas**](https://github.com/Matheuschimendes/forca) | Forca com dicas por categoria e base de dados em Excel. | Python, Pandas |
 
 ---
-
-### 📱 Aplicações Web e Full-stack
-
-| Projeto | Descrição | Tecnologias |
-|--------|------------|-------------|
-| [**FinanceIA**](https://github.com/Matheuschimendes/FinanceIA) | Plataforma inteligente para gestão financeira, utilizando IA para análise e previsão. | Python, Machine Learning, APIs |
-| [**Agenda de Contatos**](https://github.com/Matheuschimendes/agenda_de_contatos) | CRUD de contatos com Vuetify, máscara para telefones e destaque visual. | Vue.js, Vuetify |
-| [**To‑Do List JS**](https://github.com/Matheuschimendes/todolist-js) | Lista de tarefas com adição, exclusão e persistência via LocalStorage. | JavaScript, HTML, CSS |
-| [**Consumo de Água e Gás (backend)**](https://github.com/MathMendesReis) | API em TypeScript para gerenciar leituras individuais de consumo (água e gás). | TypeScript, Node.js |
 
 ---
 
