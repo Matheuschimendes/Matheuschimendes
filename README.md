@@ -1,48 +1,65 @@
-### Matheus Chimendes - Desenvolvedor Web
+<h1 align="center">👋 Olá, eu sou o Matheus Chimendes</h1>
 
-Olá! Eu sou o Matheus Chimendes, estudante de Análise de Sistemas da Informação e apaixonado por resolver problemas através da programação.
-
-- 🎓 Graduando em Análise de Sistemas da Informação
-- 🌱 Estou em busca de ampliar minha experiência e conhecimento na área de desenvolvimento web.
-
-### Tecnologias que uso diariamente
-
-<div style="display: inline_block"><br/>
-    <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-    <img align="center" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-    <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-    <img align="center" alt="React" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
-    <img align="center" alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white">
-    <img align="center" alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
-</div><br/>
-
-### Estatísticas do GitHub
-
-![Matheus Chimendes GitHub stats](https://github-readme-stats.vercel.app/api?username=matheuschimendes&show_icons=true&theme=dark)
-
-### Linguagens mais utilizadas
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheuschimendes&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-### Habilidades Adicionais
-
-- **Versionamento de Código**: Experiência com Git e GitHub para controle de versão e colaboração em equipe.
-- **Metodologias Ágeis**: Familiaridade com Scrum e Kanban para gerenciamento de projetos de desenvolvimento de software.
-
-### Contato
-
-<p align="left">
-    <a href="https://www.linkedin.com/in/matheus-chimendes/" target="_blank">
-        <img align="center" src="https://img.shields.io/badge/-matheuschimendes-05122A?style=flat&logo=linkedin" alt="linkedin"/>
-    </a>
-    <a href="https://instagram.com/matheuschiimendes" target="_blank">
-        <img align="center" src="https://img.shields.io/badge/-matheuschimendes-05122A?style=flat&logo=instagram" alt="instagram"/>
-    </a>
-    <a href="mailto:matheschiimendes@gmail.com" target="_blank">
-        <img align="center" src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white" alt="email"/>
-    </a>
+<p align="center">
+  Desenvolvedor Front-End | Entusiasta de Jogos e Lógica | Amante de Tecnologia
 </p>
 
-### Como Contribuir
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Desenvolvedor+Front-End;Projetos+em+JavaScript%2C+Python+e+Java;Foco+em+qualidade+e+boas+práticas" alt="Typing SVG" />
+</p>
 
-Se você tiver alguma sugestão ou quiser colaborar em algum projeto, fique à vontade para entrar em contato!
+---
+
+## 🚀 Principais Projetos
+
+### 🎮 Games e Lógica
+
+| Projeto | Descrição | Tecnologias |
+|--------|------------|-------------|
+| [**Escrevendo as classes de um Jogo**](https://github.com/Matheuschimendes/Escrevendo-as-classes-de-um-Jogo) | Jogo em Java usando POO com heróis personalizados e método `atacar()` com animações. | Java, GIFs |
+| [**Forest Fighting**](https://github.com/Matheuschimendes/Forest-Fighting) | Jogo de luta por turnos com 4 heróis, barras de vida e itens aleatórios. | Python, CLI |
+| [**Jogo do Número Secreto**](https://github.com/Matheuschimendes/Jogo-do-Numero-Secreto) | Jogo interativo de adivinhação com pontuação e interface simples. | JavaScript, HTML, CSS |
+| [**Jogo da Forca com Dicas**](https://github.com/Matheuschimendes/forca) | Forca com dicas por categoria e base de dados em Excel. | Python, Pandas |
+
+---
+
+### 📱 Aplicações Web
+
+| Projeto | Descrição | Tecnologias |
+|--------|------------|-------------|
+| [**Agenda de Contatos**](https://github.com/Matheuschimendes/agenda_de_contatos) | CRUD de contatos com Vuetify e máscara para telefones. | Vue.js, Vuetify |
+| [**To-Do List JS**](https://github.com/Matheuschimendes/todolist-js) | Lista de tarefas com adição, exclusão e persistência em LocalStorage. | JavaScript, HTML, CSS |
+
+---
+
+## 🧰 Tecnologias
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
+![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
+![Vue.js](https://img.shields.io/badge/-Vue.js-black?style=flat-square&logo=vue.js)
+![Vuetify](https://img.shields.io/badge/-Vuetify-black?style=flat-square&logo=vuetify)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![VS Code](https://img.shields.io/badge/-VS%20Code-black?style=flat-square&logo=visual-studio-code)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Matheuschimendes&show_icons=true&theme=tokyonight&count_private=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheuschimendes&layout=compact&theme=tokyonight" height="150" />
+</p>
+
+---
+
+## 🌎 Vamos nos conectar!
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-linkedin)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Matheuschimendes&color=blue" alt="Profile Views" />
+</p>
