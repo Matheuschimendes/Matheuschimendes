@@ -19,7 +19,6 @@
 | [**FinanceIA**](https://github.com/Matheuschimendes/FinanceIA) | Plataforma inteligente para gestão financeira, utilizando inteligência artificial para análise e previsão. | Next.js 14, Clerk, Tailwind CSS, Recharts, date-fns |
 | [**Agenda de Contatos**](https://github.com/Matheuschimendes/agenda_de_contatos) | Sistema CRUD para gerenciamento de contatos, com máscaras para telefones e interface visual aprimorada. | Vue.js, Vuetify |
 | [**To‑Do List JS**](https://github.com/Matheuschimendes/todolist-js) | Aplicação de lista de tarefas com funcionalidades de adicionar, remover e persistir dados utilizando LocalStorage. | JavaScript, HTML, CSS |
-| [**Consumo de Água e Gás (backend)**](https://github.com/MathMendesReis) | API desenvolvida em TypeScript para o gerenciamento de leituras individuais de consumo de água e gás. | TypeScript, Node.js |
 
 ### 🎮 Games e Lógica
 
