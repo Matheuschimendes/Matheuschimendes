@@ -10,34 +10,12 @@
 
 ---
 
-## 🚀 Projetos em Destaque
-
-### 📱 Aplicações Web e Full-stack
-
-| Projeto | Descrição | Tecnologias |
-|--------|------------|-------------|
-| [**FinanceIA**](https://github.com/Matheuschimendes/FinanceIA) | Plataforma inteligente para gestão financeira, utilizando inteligência artificial para análise e previsão. | Next.js 14, Clerk, Tailwind CSS, Recharts, date-fns |
-| [**Agenda de Contatos**](https://github.com/Matheuschimendes/agenda_de_contatos) | Sistema CRUD para gerenciamento de contatos, com máscaras para telefones e interface visual aprimorada. | Vue.js, Vuetify |
-| [**To‑Do List JS**](https://github.com/Matheuschimendes/todolist-js) | Aplicação de lista de tarefas com funcionalidades de adicionar, remover e persistir dados utilizando LocalStorage. | JavaScript, HTML, CSS |
-
-### 🎮 Games e Lógica
-
-| Projeto | Descrição | Tecnologias |
-|--------|------------|-------------|
-| [**Escrevendo as classes de um Jogo**](https://github.com/Matheuschimendes/Escrevendo-as-classes-de-um-Jogo) | Desenvolvimento de jogo em Java utilizando programação orientada a objetos, com heróis personalizados e método `atacar()` com animações. | Java, GIFs |
-| [**Forest Fighting**](https://github.com/Matheuschimendes/Forest-Fighting) | Jogo de luta por turnos com quatro heróis, barras de vida e itens estratégicos. | Python, CLI |
-| [**Jogo do Número Secreto**](https://github.com/Matheuschimendes/Jogo-do-Numero-Secreto) | Jogo interativo de adivinhação com interface simples e intuitiva. | JavaScript, HTML, CSS |
-| [**Jogo da Forca com Dicas**](https://github.com/Matheuschimendes/forca) | Jogo da forca aprimorado com dicas por categoria e base de dados gerenciada em Excel. | Python, Pandas |
-
----
-
 ## 🧰 Tecnologias e Ferramentas
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
-![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
-![Vue.js](https://img.shields.io/badge/-Vue.js-black?style=flat-square&logo=vue.js)
-![Vuetify](https://img.shields.io/badge/-Vuetify-black?style=flat-square&logo=vuetify)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![NextJs](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 
 ---
@@ -49,7 +27,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheuschimendes&layout=compact&theme=tokyonight" height="150" />
 </p>
 
----
+
 
 ## 🌎 Conecte-se comigo
 
