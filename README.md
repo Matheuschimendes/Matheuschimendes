@@ -17,12 +17,3 @@
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![NextJs](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-
----
-
-## 📊 Estatísticas no GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Matheuschimendes&show_icons=true&theme=tokyonight&count_private=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheuschimendes&layout=compact&theme=tokyonight" height="150" />
-</p>
