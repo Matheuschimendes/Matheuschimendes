@@ -26,16 +26,3 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Matheuschimendes&show_icons=true&theme=tokyonight&count_private=true" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheuschimendes&layout=compact&theme=tokyonight" height="150" />
 </p>
-
-
-
-## 🌎 Conecte-se comigo
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-linkedin)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Matheuschimendes&color=blue" alt="Visualizações do Perfil" />
-</p>
